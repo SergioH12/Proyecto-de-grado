@@ -42,7 +42,7 @@ La notebook usa un `base_path` (ruta absoluta) y espera las siguientes carpetas:
 
 Donde `<CLASE>` son subcarpetas con nombres de clase (por ejemplo: HSIL, LSIL, NEGATIVO). En el notebook original la variable `base_path` está configurada como:
 ```python
-base_path = r"\Users\chech\IdeaProjects\proyecto grado"
+base_path = r\"C:\\Users\\user\\Documents\\AccidentsDataset\"\n"
 ```
 Asegúrate de actualizar `base_path` a la ruta en tu sistema.
 
